@@ -1,4 +1,4 @@
-Synthetic Minority Over-sampling TechniquE is implemented and analyzed in this project based on the article (SMOTE.pdf).
+Synthetic Minority Over-sampling TechniquE is implemented and analyzed in this project based on the article (https://www.jair.org/index.php/jair/article/view/10302).
 
 Other basic methods of classification improvement on imbalanced datasets are implemented too.
 They are compared via ROC AUC values and ROC curves.
